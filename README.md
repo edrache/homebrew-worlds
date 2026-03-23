@@ -104,4 +104,4 @@ Homebrew-worlds/
 
 ## License
 
-Settings and playbooks are fan-made content for personal use. **Homebrew World** is created by Marek Troszczynski. Built on [Dungeon World](https://dungeon-world.com/) (CC BY 3.0) / Powered by the Apocalypse.
+Settings and playbooks are fan-made content for personal use. **Homebrew World** is created by [Jeremy Strandberg](https://spoutinglore.blogspot.com/2018/07/homebrew-world.html). Built on [Dungeon World](https://dungeon-world.com/) (CC BY 3.0) / Powered by the Apocalypse.
